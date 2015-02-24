@@ -1,0 +1,7 @@
+{
+  "main": "./lib/limiter.js",
+  "engines": { "node": ">= 0.10.28" },
+  "dependencies": {
+    "redis": ">=0.10.1"
+  }
+}
